@@ -9,9 +9,9 @@ const Footer = () => {
                     <img src={logo} alt=""/>
                     <p>Somos un restaurante mediterráneo familiar, centrado en recetas tradicionales servidas con un toque moderno.</p>
                 </div>
-                
+
                 <div>
-                    <h3>Links Importantes</h3>
+                    <h3>Enlaces recomendados</h3>
                     <ul>
                         <li><a href="/">Inicio</a></li>
                         <li><a href="/">Acerca de</a></li>
@@ -21,7 +21,7 @@ const Footer = () => {
                         <li><a href="/">Iniciar sesión</a></li>
                     </ul>
                 </div>
-                
+
                 <div>
                     <h3>Contacto</h3>
                     <ul>
