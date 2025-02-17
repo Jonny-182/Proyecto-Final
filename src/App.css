@@ -212,6 +212,47 @@ imput, label {
   font-weight: 600;
 }
 
+/*testimonio*/
+
+.testi-container {
+  padding: 10px 13% 40px;
+  background-color: #495E57;
+}
+
+.testi-container h2 {
+  color: #F4CE14;
+}
+
+.testi-header {
+  display: flex;
+  justify-content: center;
+}
+
+.cards-test {
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 2rem 1rem;
+}
+
+.testi-container img{
+  width: 50px;
+  height: 50px;
+  border-radius: 8px;
+}
+
+.testi-items {
+  margin: 0;
+  padding: 10px;
+  border: #000 solid;
+  width: 300px;
+  background-color: #edefee;
+}
+
+
+
 
 
 footer section{
@@ -295,6 +336,13 @@ footer ul li{
   .menu-items{
     width: 100%;
   }
+
+
+
+  
+
+
+
 
   footer section{
     padding: 10px 8%;
